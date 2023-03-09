@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perceptron_Terdes", "Perceptron_Terdes\Perceptron_Terdes.csproj", "{3C2E9386-40C5-419B-9C9D-7FFA0EFE9E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2E9386-40C5-419B-9C9D-7FFA0EFE9E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2E9386-40C5-419B-9C9D-7FFA0EFE9E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2E9386-40C5-419B-9C9D-7FFA0EFE9E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2E9386-40C5-419B-9C9D-7FFA0EFE9E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B739F97-0AB9-4700-9F06-231C35F580B6}
+	EndGlobalSection
+EndGlobal
